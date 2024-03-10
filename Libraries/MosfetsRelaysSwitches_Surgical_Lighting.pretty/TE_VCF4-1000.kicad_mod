@@ -372,4 +372,15 @@
 			(xyz 0 0 180)
 		)
 	)
+	(model "${SURGICAL_LIGHTING_LIBRARY_TEMPLATE_DIR}/Libraries/MosfetsRelaysSwitches_Surgical_Lighting.pretty/Panasonic_-_CB1-R-12V.step"
+		(offset
+			(xyz 2 0 3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
 )
