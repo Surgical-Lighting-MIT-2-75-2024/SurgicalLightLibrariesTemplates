@@ -344,4 +344,15 @@
 		(remove_unused_layers no)
 		(uuid "e9a9294a-5b06-4d0c-a127-4e0ebd586de9")
 	)
+	(model "${SURGICAL_LIGHTING_LIBRARY_TEMPLATE_DIR}/Libraries/Connectors_SurgicalLighting.pretty/A-2014-2S-4-N-R.step"
+		(offset
+			(xyz 4.5 -4.5 16)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
 )
